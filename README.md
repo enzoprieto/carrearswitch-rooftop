@@ -1,7 +1,7 @@
 # carrearswitch-rooftop
 
-1- Clone project /n
-2- Open in your IDE 
+<sup> 1- Clone project </sup>
+<sup> 2- Open in your IDE </sup>
  -- options: Eclipse(Spring tools suite), Visual Studio Code /n
 2.1 - In VS, install following pluggins: "Extension Pack for java" and "Spring Boot Extension Pack" /n
 3- Run maven update in your IDE or $mvn clean install to compile and run the tests /n
